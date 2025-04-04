@@ -4,6 +4,8 @@ Welcome to my user page! Here's a bit about me as a **programmer** and a **perso
 
 ---
 
+[myat's image](scholarship.HEIC)
+
 ## 🌱 About Me
 
 I'm a Computer Science major at UC San Diego and a first-generation student from Myanmar.  
