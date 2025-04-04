@@ -18,3 +18,4 @@ I'm a Computer Science student passionate about web development, AI, and using c
 ```python
 def hello_world():
     print("Hello, world!")
+```
