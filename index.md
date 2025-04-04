@@ -27,7 +27,7 @@ Visit [My LinkedIn](https://www.linkedin.com/in/myat-thiha-49920523b/)
 
 ## 📑 Section Links
 
-- [See Task List](#✅-task-list)
+- [See Task List](#task-list)
 
 ## 📂 Relative Links
 - [README.md](README.md)
@@ -49,7 +49,7 @@ Visit [My LinkedIn](https://www.linkedin.com/in/myat-thiha-49920523b/)
 
 ---
 
-## ✅ Task List
+## Task List
 
 - [x] Create user page
 - [x] Use all Markdown elements
