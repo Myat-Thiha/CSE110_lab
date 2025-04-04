@@ -4,7 +4,7 @@ Welcome to my user page! Here's a bit about me as a **programmer** and a **perso
 
 ---
 
-[myat's image](scholarship.HEIC)
+![myat's image](scholarship.HEIC)
 
 ## 🌱 About Me
 
